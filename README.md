@@ -43,3 +43,9 @@ Edit `index.html` di repository yang sama dan Commit changes. Link tetap sama se
 - `sw.js`: cache aplikasi untuk mode offline.
 - `.nojekyll`: penanda agar file static dilayani langsung.
 - `README.md`: panduan upload dan penggunaan.
+
+## Tampilan kategori dan penggunaan
+
+Halaman utama menampilkan empat kategori: Belum ditentukan, Dipakai, Tidak terpakai (tetap disimpan), dan Dibuang. Tekan kategori untuk membuka daftar; tekan kembali atau Tutup daftar untuk menutupnya.
+
+Tombol Dipakai membuka formulir singkat berisi pengguna dan keterangan. Tanggal dan waktu penggunaan dicatat otomatis saat Simpan, tanpa mengubah tanggal penerimaan.

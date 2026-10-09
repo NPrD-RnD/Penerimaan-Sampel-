@@ -1,6 +1,6 @@
 'use strict';
 // Naikkan versi CACHE saat mengubah file yang disimpan offline.
-const CACHE = 'lab-sample-pages-v1';
+const CACHE = 'lab-sample-pages-v2';
 const SCOPE = self.registration.scope;
 const INDEX = new URL('index.html', SCOPE).href;
 const ASSETS = [SCOPE, INDEX];
