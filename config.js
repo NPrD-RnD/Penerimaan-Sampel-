@@ -1,7 +1,7 @@
 // Hanya isi URL proyek dan PUBLISHABLE KEY. Keduanya boleh berada di frontend.
 // Jangan pernah masukkan secret key, service_role, password akun, atau password database.
 window.LAB_CONFIG = {
-  supabaseUrl: 'https://qvetnqzeiemuazrbjpbh.supabase.co/rest/v1/',
+  supabaseUrl: 'https://qvetnqzeiemuazrbjpbh.supabase.co',
   publishableKey: 'sb_publishable_xdvt9Mr5Ey9IZsUe8n2Vjw_pQ1sZZ4r',
   // URL GitHub Pages final; jangan memakai slash wildcard.
   appUrl: 'https://nprd-rnd.github.io/Penerimaan-Sampel-/'
